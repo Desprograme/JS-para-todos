@@ -8,6 +8,6 @@ Motivo da ação:  Temos muitos materias desatualizado, quem esta começando se 
 da um força para quem precisa mudar de vida. 
 
 
-Gostou? Então responde a Issues e se você deseja sugerir conteudo coloca na Issues
+Gostou? Então responde a Issues e se você deseja sugerir conteúdo coloca na Issues
 
 obs: Toda ajuda e bem vinda ^^
